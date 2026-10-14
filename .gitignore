@@ -1,3 +1,3 @@
-trabajo/ 
-*.db 
+/trabajo/
+*.db
 __pycache__/
