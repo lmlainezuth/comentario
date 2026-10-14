@@ -446,5 +446,54 @@
   "cuando": "2026-10-14T21:59:02",
   "fallos": 0,
   "avisos": 0
+ },
+ "hch-10-no-fui-rebelde-a-la-vision-celestial-cap01.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T22:06:58",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-10-no-fui-rebelde-a-la-vision-celestial-cap02.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T22:12:13",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-10-no-fui-rebelde-a-la-vision-celestial-cap03.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T22:16:29",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-10-no-fui-rebelde-a-la-vision-celestial-cap04.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T22:21:37",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-10-no-fui-rebelde-a-la-vision-celestial-cap05.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T22:31:47",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-10-no-fui-rebelde-a-la-vision-celestial-cap06.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T22:36:42",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-10-no-fui-rebelde-a-la-vision-celestial-introduccion.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T22:41:16",
+  "fallos": 0,
+  "avisos": 0
  }
 }

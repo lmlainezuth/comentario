@@ -813,6 +813,13 @@ Hechos|1|Lenguas repartidas, como de fuego||hch-01-me-sereis-testigos-cap03.md
 Hechos|1|Sueltos los dolores de la muerte||hch-01-me-sereis-testigos-cap04.md
 Hechos|1|Varones hermanos, ¿qué haremos?||hch-01-me-sereis-testigos-cap05.md
 Hechos|1|Tomo 1 — Me seréis testigos|Hechos 1:1 – 2:47|hch-01-me-sereis-testigos-introduccion.md
+Hechos|10|Según el Camino que ellos llaman herejía||hch-10-no-fui-rebelde-a-la-vision-celestial-cap01.md
+Hechos|10|Cuando tenga oportunidad te llamaré||hch-10-no-fui-rebelde-a-la-vision-celestial-cap02.md
+Hechos|10|A César apelo||hch-10-no-fui-rebelde-a-la-vision-celestial-cap03.md
+Hechos|10|Un cierto Jesús, ya muerto||hch-10-no-fui-rebelde-a-la-vision-celestial-cap04.md
+Hechos|10|Dura cosa te es dar coces contra el aguijón||hch-10-no-fui-rebelde-a-la-vision-celestial-cap05.md
+Hechos|10|Por poco me persuades a ser cristiano||hch-10-no-fui-rebelde-a-la-vision-celestial-cap06.md
+Hechos|10|Tomo 10 — No fui rebelde a la visión celestial|Hechos 24:1 – 26:32|hch-10-no-fui-rebelde-a-la-vision-celestial-introduccion.md
 Hechos|2|No tengo plata ni oro||hch-02-en-el-nombre-de-jesucristo-de-nazaret-cap01.md
 Hechos|2|Ha glorificado a su Hijo Jesús||hch-02-en-el-nombre-de-jesucristo-de-nazaret-cap02.md
 Hechos|2|No podemos dejar de decir lo que hemos visto y oído||hch-02-en-el-nombre-de-jesucristo-de-nazaret-cap03.md
