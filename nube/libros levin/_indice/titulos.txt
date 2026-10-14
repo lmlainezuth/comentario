@@ -813,6 +813,14 @@ Hechos|1|Lenguas repartidas, como de fuego||hch-01-me-sereis-testigos-cap03.md
 Hechos|1|Sueltos los dolores de la muerte||hch-01-me-sereis-testigos-cap04.md
 Hechos|1|Varones hermanos, ¿qué haremos?||hch-01-me-sereis-testigos-cap05.md
 Hechos|1|Tomo 1 — Me seréis testigos|Hechos 1:1 – 2:47|hch-01-me-sereis-testigos-introduccion.md
+Hechos|2|No tengo plata ni oro||hch-02-en-el-nombre-de-jesucristo-de-nazaret-cap01.md
+Hechos|2|Ha glorificado a su Hijo Jesús||hch-02-en-el-nombre-de-jesucristo-de-nazaret-cap02.md
+Hechos|2|No podemos dejar de decir lo que hemos visto y oído||hch-02-en-el-nombre-de-jesucristo-de-nazaret-cap03.md
+Hechos|2|Con todo denuedo||hch-02-en-el-nombre-de-jesucristo-de-nazaret-cap04.md
+Hechos|2|No había entre ellos ningún necesitado||hch-02-en-el-nombre-de-jesucristo-de-nazaret-cap05.md
+Hechos|2|Todas las palabras de esta vida||hch-02-en-el-nombre-de-jesucristo-de-nazaret-cap06.md
+Hechos|2|Es necesario obedecer a Dios antes que a los hombres||hch-02-en-el-nombre-de-jesucristo-de-nazaret-cap07.md
+Hechos|2|Tomo 2 — En el nombre de Jesucristo de Nazaret|Hechos 3:1 – 5:42|hch-02-en-el-nombre-de-jesucristo-de-nazaret-introduccion.md
 Isaias|1|Toda cabeza está enferma||isa-01-oid-cielos-y-escucha-tu-tierra-cap01.md
 Isaias|1|Venid luego, dice Jehová, y estemos a cuenta||isa-01-oid-cielos-y-escucha-tu-tierra-cap02.md
 Isaias|1|Ciudad de justicia, Ciudad fiel||isa-01-oid-cielos-y-escucha-tu-tierra-cap03.md
