@@ -1,3 +1,4 @@
 01=Me seréis testigos
 02=En el nombre de Jesucristo de Nazaret
 03=Señor Jesús, recibe mi espíritu
+04=Iban por todas partes anunciando el evangelio
