@@ -1,0 +1,8 @@
+01=Levantate y pasa
+02=Cayo Jerico
+03=El pecado de Acan
+04=El sol se detuvo
+05=Dame este monte
+06=El resto de la tierra
+07=Las ciudades de refugio
+08=Escogeos hoy

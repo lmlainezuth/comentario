@@ -1,0 +1,7 @@
+# Nombre de cada tomo, para que el indice no diga solo "Tomo 1".
+# Una linea por tomo: numero=nombre. Sin este archivo se usa el
+# descriptor del nombre de los archivos (creacion -> Creacion).
+
+01=La creación
+02=El jardín
+03=Caín

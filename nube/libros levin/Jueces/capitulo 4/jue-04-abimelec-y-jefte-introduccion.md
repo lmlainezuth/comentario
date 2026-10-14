@@ -1,0 +1,20 @@
+# Tomo 4 — Abimelec y Jefté
+## Jueces 9:1 – 11:40
+
+En el tomo anterior, Gedeón terminó su vida con una de las frases más nobles del libro: **«no seré señor sobre vosotros… Jehová señoreará sobre vosotros».** Rechazó el trono. Pero apenas murió, uno de sus hijos hizo justo lo contrario: quiso ser rey a cualquier precio. Con este tomo entramos en la parte más oscura de la primera mitad de Jueces — dos historias que muestran, cada una a su manera, lo que pasa cuando el hombre se pone donde solo Dios debe estar, y cuando las palabras se pronuncian sin pensar.
+
+La primera es la de **Abimelec** (capítulo 9). Es el reverso exacto de su padre. Gedeón dijo «Jehová reinará»; Abimelec dijo, en efecto, «reinaré yo». Y para conseguirlo, hizo algo espantoso: mató a sus setenta hermanos «sobre una misma piedra» para que nadie le disputara el poder. Solo se salvó el menor, **Jotam**, que escapó y subió a un monte a gritarle a la ciudad una de las parábolas más agudas de la Biblia: la de **los árboles que fueron a buscar rey.** El olivo, la higuera y la vid —los árboles útiles, los que dan fruto— no quisieron reinar; solo la **zarza**, el arbusto inútil y espinoso que no da nada, aceptó el trono. Y en esa fábula está el diagnóstico de todo el episodio: cuando los buenos no quieren gobernar, terminan gobernando los que no sirven para nada. La historia de Abimelec es la advertencia de adónde lleva la ambición sin freno — y el consuelo de que **Dios paga**: «así pagó Dios a Abimelec el mal que hizo», y el rey sanguinario murió por una piedra de molino que le tiró una mujer desde una torre.
+
+La segunda historia es la de **Jefté** (capítulos 10 y 11), y es de otra clase. Antes de él, el texto se detiene en un momento tremendo: Israel vuelve a los ídolos, clama a Dios cuando llega el aprieto, y esta vez Dios le responde algo que hiela: **«andad y clamad a los dioses que os habéis elegido; que os libren ellos».** Es el retrato del que solo busca a Dios cuando lo necesita — y la puerta que, aun así, la misericordia de Dios no acaba de cerrar. Y entonces aparece Jefté: **hijo de una ramera, echado de la casa de su padre por sus hermanos,** un marginado que vivía entre gente sin rumbo. Al mismo hombre que despreciaron, esos mismos hermanos vienen a rogarle que los salve cuando el enemigo aprieta. Dios usa al rechazado. Pero la historia de Jefté termina en tragedia por un error que no fue del enemigo, sino de su propia boca: **un voto temerario**, hecho para asegurarse la victoria, que le costó lo que más amaba. Su historia es la lección más seria del libro sobre **el peso de las palabras que le damos a Dios.**
+
+**El hilo del tomo:** dos hombres que Dios levanta o permite en la parte baja de la espiral. Abimelec, el que se puso rey donde no debía, y a quien Dios le devolvió su maldad sobre la cabeza. Jefté, el rechazado a quien Dios sí usó, pero que se hirió a sí mismo con su propia lengua. Entre los dos, el pueblo que solo clama en el apuro y un Dios que, sorprendentemente, sigue conmovido por la aflicción de los suyos. Y por debajo de todo, la misma pregunta que arrastra el libro: hace falta un Rey que no sea zarza ni tirano, y un Libertador cuyas palabras no hieran sino que salven.
+
+Cinco capítulos:
+
+1. **La parábola de los árboles** (9:1-21) — por qué la zarza acabó reinando cuando los buenos no quisieron.
+2. **El rey que salió de la zarza** (9:22-57) — Abimelec, la ambición que se devora a sí misma, y el Dios que paga.
+3. **Clamad a los dioses que escogisteis** (10:1-18) — el que solo busca a Dios en el apuro, y la misericordia que aun así se conmueve.
+4. **El hijo de la ramera** (11:1-28) — el rechazado a quien Dios levanta como caudillo.
+5. **El voto que no debió hacer** (11:29-40) — el peso de las palabras precipitadas delante de Dios.
+
+Como siempre, es el **libro del maestro** —cuerpo, `Resumen`, `Preguntas de estudio` y la `Nota para el autor` que se borra antes de publicar— escrito trayendo el texto de la base y cotejando cada cita contra la RVR1960, nunca de memoria. Y con el cuidado que este libro exige: predicar el diagnóstico y la gracia, sin recrearse en lo truculento.

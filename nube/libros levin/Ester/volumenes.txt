@@ -1,0 +1,2 @@
+01=Para esta hora has llegado al reino
+02=Sucedió lo contrario

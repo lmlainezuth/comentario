@@ -1,0 +1,156 @@
+# Citas revisadas a mano que se quedan como estan (22/09/2026).
+# Glosas del hebreo o del griego, comparaciones con otras versiones, frases
+# hipoteticas ("no dice «...»"), y erratas de la base. cotejar_citas.py las salta.
+# Formato: ruta del archivo | texto de la cita tal como esta entre «».
+
+Deuteronomio/capitulo 2/deut-02-oye-israel-cap04.md | Tú eras esclavo sin descanso; Dios te liberó y te da el descanso. Que tu siervo también descanse.
+Deuteronomio/capitulo 3/deut-03-no-por-tu-justicia-cap05.md | no por vuestra justicia, sois duros de cerviz
+Exodo/capitulo 1/exodo-01-opresion-cap01.md | por haber contestado con astucia
+Exodo/capitulo 1/exodo-01-opresion-cap04.md | para dar de beber a las ovejas
+Exodo/capitulo 1/exodo-01-opresion-cap05.md | y vio Dios a los hijos de Israel, y conoció Dios
+Exodo/capitulo 10/exodo-10-tabernaculo-cap01.md | para que tengan dónde sacrificar
+Exodo/capitulo 10/exodo-10-tabernaculo-introduccion.md | para que tengan dónde sacrificar
+Exodo/capitulo 2/exodo-02-zarza-cap02.md | para **hacerlos subir** de aquella tierra
+Exodo/capitulo 3/exodo-03-fracaso-cap03.md | agravad la *avodá* para que no atiendan
+Exodo/capitulo 3/exodo-03-fracaso-cap05.md | Yo soy incircunciso de labios.
+Exodo/capitulo 4/exodo-04-plagas-cap02.md | no puso su corazón
+Exodo/capitulo 4/exodo-04-plagas-cap04.md | no puso su corazón
+Exodo/capitulo 4/exodo-04-plagas-cap06.md | y por tanto Dios solo permitió
+Exodo/capitulo 4/exodo-04-plagas-cap06.md | y por tanto Faraón no era responsable
+Exodo/capitulo 5/exodo-05-pascua-cap01.md | murieron los primogénitos de Egipto
+Exodo/capitulo 5/exodo-05-pascua-cap02.md | Es la víctima de la **pascua** [*pésaj*] de Jehová, el cual **pasó** [*pasaj*] por encima de las casas
+Exodo/capitulo 5/exodo-05-pascua-cap03.md | hacedlo así para que pregunten
+Exodo/capitulo 5/exodo-05-pascua-introduccion.md | murieron los primogénitos de Egipto
+Exodo/capitulo 9/exodo-09-pacto-cap03.md | lanzar alaridos de angustia o peligro
+Genesis/capitulo 1/genesis-01-creacion-cap01.md | Cuando Dios comenzó a crear los cielos y la tierra, la tierra estaba desordenada y vacía...
+Genesis/capitulo 1/genesis-01-creacion-cap08.md | mil años delante de tus ojos son como el día de ayer
+Genesis/capitulo 11/genesis-11-jacob-cap01.md | así se aprovechó Jacob de su hermano
+Genesis/capitulo 14/genesis-14-jose-cap06.md | y movidos por envidia lo vendieron
+Genesis/capitulo 16/genesis-16-bendicion-cap04.md | hasta que venga aquel a quien pertenece
+Genesis/capitulo 16/genesis-16-bendicion-cap04.md | hasta que venga el tributo
+Genesis/capitulo 16/genesis-16-bendicion-cap06.md | **En verdad os he visitado** [*paqad*], y he visto lo que se os hace en Egipto
+Genesis/capitulo 16/genesis-16-bendicion-cap06.md | harán también un **arca** [*arón*] de madera de acacia
+Genesis/capitulo 16/genesis-16-bendicion-cap06.md | y oyendo que Jehová **había visitado** [*paqad*] a los hijos de Israel… se inclinaron y adoraron
+Genesis/capitulo 2/genesis-02-jardin-cap01.md | formó al terroso del polvo de la tierra
+Genesis/capitulo 3/genesis-03-cain-cap01.md | He adquirido varón con la ayuda de Jehová
+Genesis/capitulo 3/genesis-03-cain-cap01.md | he adquirido un varón: Jehová
+Genesis/capitulo 3/genesis-03-cain-cap06.md | darse a conocer en mi nombre
+Genesis/capitulo 3/genesis-03-cain-cap10.md | a los ciento ochenta y siete años engendró a
+Genesis/capitulo 4/genesis-04-diluvio-cap02.md | las obras de los hombres eran malas
+Genesis/capitulo 5/genesis-05-babel-cap01.md | estableció los límites de los pueblos **según el número de los hijos de Israel**
+Genesis/capitulo 5/genesis-05-babel-cap01.md | los pueblos del norte y del oeste
+Genesis/capitulo 5/genesis-05-babel-cap03.md | hermano de Jafet el mayor
+Genesis/capitulo 6/genesis-06-abraham-cap05.md | Elam, un hijo de Sem, y su descendiente, con su nación
+Genesis/capitulo 6/genesis-06-abraham-cap05.md | a pesar de lo que había hecho
+Genesis/capitulo 7/genesis-07-pacto-cap01.md | yo soy tu escudo, y **soy** tu galardón sobremanera grande
+Genesis/capitulo 7/genesis-07-pacto-cap02.md | orig. al cortar carne y pasar entre los pedazos
+Genesis/capitulo 9/genesis-09-moriah-cap02.md | no te parezca grave **a tus ojos**
+Levitico/capitulo 5/levitico-05-expiacion-sangre-cap06.md | Una suerte por Jehová y otra suerte por-el-macho-cabrío-que-se-va
+Numeros/capitulo 1/numeros-01-censo-cap01.md | levantad la cabeza de toda la congregación
+Numeros/capitulo 1/numeros-01-censo-cap02.md | cuarenta y seis clanes, quinientos hombres
+Numeros/capitulo 1/numeros-01-censo-cap03.md | a los levitas déjalos fuera
+Numeros/capitulo 1/numeros-01-censo-cap05.md | el fondo, lo que está debajo… **en vez de**
+Numeros/capitulo 10/numeros-10-ofrendas-votos-cap02.md | según el dicho de Jehová acampaban, y según el dicho de Jehová partían
+Numeros/capitulo 2/numeros-02-servicio-cap04.md | actúa encubiertamente
+Numeros/capitulo 3/numeros-03-ofrenda-cap06.md | al mandato de Jehová acampaban / partían
+Numeros/capitulo 3/numeros-03-ofrenda-cap06.md | guardar la ordenanza de Jehová
+Numeros/capitulo 4/numeros-04-marcha-cap02.md | partida (**por desarmar las tiendas**)
+Numeros/capitulo 4/numeros-04-marcha-cap04.md | asamblea promiscua de gente
+Numeros/capitulo 4/numeros-04-marcha-cap04.md | levantad la cabeza
+Numeros/capitulo 4/numeros-04-marcha-cap05.md | los sepulcros del anhelo
+Numeros/capitulo 4/numeros-04-marcha-cap06.md | yo no soy la **nodriza** de este pueblo
+Numeros/capitulo 6/numeros-06-core-cap05.md | levantad la cabeza
+Numeros/capitulo 7/numeros-07-vaca-serpiente-cap04.md | Y viendo toda la congregación que Aarón había muerto, le hicieron duelo por **treinta días** todas las familias de Israel
+Numeros/capitulo 8/numeros-08-balaam-cap02.md | según el dicho —la boca— de Jehová
+Numeros/capitulo 8/numeros-08-balaam-cap03.md | **levantad la cabeza** de toda la congregación
+Numeros/capitulo 9/numeros-09-segunda-generacion-cap06.md | según el dicho de Jehová
+
+# Josué–2 Samuel (23/09/2026): frases hipotéticas, preguntas del autor y glosas (el título del Salmo 34 ya está en la base desde el 23/09).
+Josue/capitulo 2/jos-02-cayo-jerico-cap05.md | gritad porque el muro ya cayó
+Josue/capitulo 4/jos-04-el-sol-se-detuvo-cap04.md | ellos tienen carros, yo no; están perdidos
+Josue/capitulo 6/jos-06-el-resto-de-la-tierra-cap04.md | nunca voy a poseer mi tierra
+Josue/capitulo 8/jos-08-escogeos-hoy-cap03.md | sabed que Dios es fiel
+Jueces/capitulo 1/jue-01-la-rueda-que-baja-cap02.md | Señor, ¿por qué me pasa esto?
+Jueces/capitulo 1/jue-01-la-rueda-que-baja-cap04.md | esta caída es igual que las otras
+Jueces/capitulo 2/jue-02-aod-y-debora-cap01.md | ¿está el Espíritu de Dios sobre mí?
+Jueces/capitulo 2/jue-02-aod-y-debora-cap02.md | hijo de la mano derecha
+Jueces/capitulo 3/jue-03-gedeon-cap01.md | ¿por qué no hace alguien algo?
+1 Samuel/capitulo 1/1sa-01-ana-cap05.md | escucha, Jehová, que tu siervo habla
+1 Samuel/capitulo 10/1sa-10-el-final-cap01.md | ya que te fuiste con los filisteos, se acabó, buscaré a otro
+1 Samuel/capitulo 2/1sa-02-el-arca-cap01.md | ¿qué me dice Dios, y en qué necesito volverme a Él?
+1 Samuel/capitulo 4/1sa-04-la-caida-cap05.md | ya no aguanto más, tengo que hacer algo
+1 Samuel/capitulo 7/1sa-07-celos-y-amistad-cap04.md | ¿soy yo un amigo así — de los que se ponen del lado del otro aunque cueste?
+1 Samuel/capitulo 8/1sa-08-david-fugitivo-cap05.md | Dios no ha terminado contigo; recuerda lo que Él te prometió
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap04.md | como lo hace el mundo
+2 Samuel/capitulo 1/2sa-01-el-rey-que-llora-cap01.md | bien merecido lo tiene
+2 Samuel/capitulo 1/2sa-01-el-rey-que-llora-cap01.md | el que me hizo daño
+2 Samuel/capitulo 1/2sa-01-el-rey-que-llora-cap01.md | El corazón según Dios no se alegra de la caída de su enemigo.
+2 Samuel/capitulo 1/2sa-01-el-rey-que-llora-cap01.md | El duelo no es falta de fe.
+2 Samuel/capitulo 1/2sa-01-el-rey-que-llora-cap02.md | David odiaba a Saúl; si le digo que yo lo maté, me va a recompensar
+2 Samuel/capitulo 1/2sa-01-el-rey-que-llora-cap02.md | pero me convenía
+2 Samuel/capitulo 1/2sa-01-el-rey-que-llora-cap02.md | pero al final salió bien
+2 Samuel/capitulo 1/2sa-01-el-rey-que-llora-cap03.md | Señor, guía mi vida
+2 Samuel/capitulo 1/2sa-01-el-rey-que-llora-cap03.md | dirige mis pasos
+2 Samuel/capitulo 1/2sa-01-el-rey-que-llora-cap03.md | ¿subo?, ¿a dónde?
+2 Samuel/capitulo 1/2sa-01-el-rey-que-llora-cap04.md | ¿será que me equivoqué?, ¿será que Dios no era en esto?
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap01.md | David quiere el trono, e Is-boset se lo estorba; si lo matamos, le hacemos un favor y nos hará ricos
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap01.md | no importa cómo, lo que importa es llegar
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap02.md | yo me lo gané
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap02.md | ¿qué gano yo con esto?, ¿cómo lo disfruto?
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap02.md | ¿para qué me lo dio Dios, a quién debo bendecir con esto?
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap02.md | ¿a quién voy a bendecir con esto?
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap02.md | La grandeza verdadera viene de que Dios esté contigo.
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap02.md | Lo que Dios te da es para bendecir a otros a través de ti.
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap03.md | la última vez ataqué de frente y gané, hago lo mismo
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap03.md | la manera en que Dios obra
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap03.md | Dios sana así
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap03.md | La victoria muchas veces está al otro lado de una orden que no entendiste.
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap04.md | Dios es peligroso, mejor no me acerco
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap04.md | Dios es santo, así que voy a acercarme como Él pide, no como se me antoje
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap04.md | La buena intención no reemplaza la manera de Dios.
+2 Samuel/capitulo 2/2sa-02-el-arca-sube-cap05.md | qué exagerado
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap01.md | me adelanté; Dios me corrigió anoche
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap01.md | Un buen deseo no es todavía una orden de Dios.
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap01.md | El servicio no es el precio de la compañía de Dios, sino la respuesta a ella.
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap02.md | se acabó, Dios ya no me va a usar
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap02.md | Lo que Dios empieza contigo no termina contigo.
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap02.md | la vara cayó; la misericordia se quedó
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap03.md | no valgo
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap03.md | mira hasta dónde me trajiste
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap03.md | no sirvo para nada
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap03.md | mira hasta dónde me trajo
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap03.md | yo no valgo
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap03.md | a mí nunca me sale nada
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap03.md | yo no sirvo para eso
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap03.md | La humildad verdadera no es pensar mal de ti, sino pensar bien de Dios.
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-cap04.md | El que sabe que la victoria es de Dios no se hunde cuando pierde, ni se endiosa cuando gana.
+2 Samuel/capitulo 3/2sa-03-la-casa-que-dios-edifica-introduccion.md | en hebreo significa
+2 Samuel/capitulo 4/2sa-04-tu-eres-aquel-hombre-cap01.md | que pase lo que tenga que pasar
+2 Samuel/capitulo 4/2sa-04-tu-eres-aquel-hombre-cap01.md | vamos a ganar porque lo decimos
+2 Samuel/capitulo 4/2sa-04-tu-eres-aquel-hombre-cap01.md | La malicia del que interpreta no ensucia la bondad del que da.
+2 Samuel/capitulo 4/2sa-04-tu-eres-aquel-hombre-cap02.md | por una temporada
+2 Samuel/capitulo 4/2sa-04-tu-eres-aquel-hombre-cap02.md | una mujer
+2 Samuel/capitulo 4/2sa-04-tu-eres-aquel-hombre-cap02.md | es casado
+2 Samuel/capitulo 4/2sa-04-tu-eres-aquel-hombre-cap02.md | es casada
+2 Samuel/capitulo 4/2sa-04-tu-eres-aquel-hombre-cap02.md | eso no te conviene
+2 Samuel/capitulo 4/2sa-04-tu-eres-aquel-hombre-cap04.md | adúltero y asesino
+2 Samuel/capitulo 4/2sa-04-tu-eres-aquel-hombre-cap04.md | esto no está bien
+2 Samuel/capitulo 5/2sa-05-la-espada-en-casa-cap01.md | calla, es de la familia
+2 Samuel/capitulo 5/2sa-05-la-espada-en-casa-cap01.md | no lo cuentes, que es tu tío
+2 Samuel/capitulo 5/2sa-05-la-espada-en-casa-cap01.md | no hagas un escándalo, que es un hermano de la iglesia
+2 Samuel/capitulo 5/2sa-05-la-espada-en-casa-cap01.md | piensa en el nombre de la familia
+2 Samuel/capitulo 5/2sa-05-la-espada-en-casa-cap01.md | perdona y olvídalo
+2 Samuel/capitulo 5/2sa-05-la-espada-en-casa-cap02.md | El amor que siente pero no actúa no basta.
+2 Samuel/capitulo 5/2sa-05-la-espada-en-casa-cap03.md | hacen las paces
+2 Samuel/capitulo 5/2sa-05-la-espada-en-casa-cap03.md | vive bajo el mismo techo sin verle la cara
+2 Samuel/capitulo 5/2sa-05-la-espada-en-casa-cap04.md | lo tiene todo
+2 Samuel/capitulo 5/2sa-05-la-espada-en-casa-cap04.md | el pastor no te escucha, yo sí
+2 Samuel/capitulo 5/2sa-05-la-espada-en-casa-cap04.md | tu padre no te entiende, yo sí
+2 Samuel/capitulo 5/2sa-05-la-espada-en-casa-cap05.md | si hago esto, Dios tiene que darme aquello
+2 Samuel/capitulo 6/2sa-06-hijo-mio-absalon-cap04.md | ya no merece nada
+2 Samuel/capitulo 6/2sa-06-hijo-mio-absalon-cap04.md | trátalo bien, Señor, por amor de mí
+2 Samuel/capitulo 6/2sa-06-hijo-mio-absalon-cap04.md | es más eficaz
+2 Samuel/capitulo 6/2sa-06-hijo-mio-absalon-cap04.md | total, es por su bien
+2 Samuel/capitulo 6/2sa-06-hijo-mio-absalon-cap04.md | sabemos mejor
+2 Samuel/capitulo 6/2sa-06-hijo-mio-absalon-cap05.md | se lo buscó
+2 Samuel/capitulo 6/2sa-06-hijo-mio-absalon-cap05.md | ¿y si hubiera hecho otra cosa?

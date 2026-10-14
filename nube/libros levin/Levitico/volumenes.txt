@@ -1,0 +1,15 @@
+# Nombre de cada tomo, para que el indice no diga solo "Tomo 1".
+# Una linea por tomo: numero=nombre. Sin este archivo el cargador usa
+# el descriptor del nombre de los archivos, y por eso el indice de la
+# app decia "Mesa nacimiento" y "Expiacion sangre", sin tildes.
+# Nombres deducidos de los nombres de archivo el 19/09/2026: cambie
+# el que no le guste, que es una linea.
+01=Las ofrendas
+02=La consagración
+03=La mesa y el nacimiento
+04=El cuerpo y la casa
+05=La expiación y la sangre
+06=La santidad
+07=Los sacerdotes y las fiestas
+08=El blasfemo y el jubileo
+09=La bendición y los votos

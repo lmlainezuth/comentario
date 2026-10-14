@@ -1,0 +1,16 @@
+# Nombre de cada tomo, para que el indice no diga solo "Tomo 1".
+# Una linea por tomo: numero=nombre. Sin este archivo se usa el
+# descriptor del nombre de los archivos (opresion -> Opresion).
+
+01=La opresión
+02=La zarza
+03=El fracaso
+04=Las plagas
+05=La pascua
+06=El mar
+07=El desierto
+08=El Sinaí
+09=El pacto
+10=El tabernáculo
+11=El becerro
+12=La construcción

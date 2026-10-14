@@ -1,0 +1,12 @@
+01=El censo
+02=El servicio
+03=La ofrenda
+04=La marcha
+05=Los espías
+06=Coré
+07=La vaca y la serpiente
+08=Balaam
+09=La segunda generación
+10=Ofrendas y votos
+11=Madián y las etapas
+12=La heredad

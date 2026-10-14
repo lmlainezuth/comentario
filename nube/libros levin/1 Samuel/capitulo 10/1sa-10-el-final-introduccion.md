@@ -1,0 +1,26 @@
+# Tomo 10 — El final de dos caminos
+## 1 Samuel 27:1 – 31:13
+
+Llegamos al final del libro, y con él al final de los dos caminos que hemos venido siguiendo desde el principio: el de Saúl, el rey que se apartó de Dios, y el de David, el rey conforme al corazón de Dios que esperó su tiempo. En estos últimos cinco capítulos los dos caminos llegan a su destino, y el contraste no puede ser más sobrio ni más aleccionador. Saúl, abandonado por el Dios al que dejó de escuchar, termina consultando a una médium la noche antes de morir, y cae en el monte Gilboa con sus hijos. David, que lo pierde todo en Siclag, se fortalece en Jehová su Dios, recupera todo, y queda al borde del trono. Un mismo Dios, dos finales — y en medio, la lección de toda una vida sobre lo que significa caminar con Dios o apartarse de Él.
+
+Empieza con **David refugiándose entre los filisteos** (capítulo 27). Cansado de años de huir, David toma una decisión que nos sorprende: se va a vivir a Gat, tierra enemiga, bajo la protección de Aquis, el rey filisteo. Es la fe agotada la que habla: «al fin seré muerto algún día por la mano de Saúl» (27:1). Y una vez allí, David entra en una doble vida incómoda: le hace creer a Aquis que está atacando a Israel, cuando en realidad ataca a otros pueblos, y no deja sobreviviente que pueda delatarlo. La fe cansada lo llevó a un atajo, y el atajo lo metió en un enredo de mentiras.
+
+Sigue **la noche de Endor** (capítulo 28), una de las escenas más oscuras de la Biblia. Saúl, aterrado ante el ejército filisteo, consulta a Jehová — pero «Jehová no le respondió ni por sueños, ni por Urim, ni por profetas» (28:6). El cielo está cerrado para él. Y en su desesperación, el mismo rey que había expulsado a los adivinos de la tierra corre de noche, disfrazado, a consultar a una médium en Endor. Es el retrato terrible de a dónde llega el alma que por años le cerró la puerta a Dios: cuando por fin lo busca, ya no lo halla, y termina golpeando puertas que Dios prohíbe. «Dios se ha apartado de mí, y no me responde más», confiesa (28:15). Es su fondo.
+
+Luego, **la providencia que rescata a David de su propio enredo** (capítulo 29). El atajo de David lo había metido en una trampa imposible: los filisteos van a la guerra contra Israel, y David, como vasallo de Aquis, tendría que pelear contra su propio pueblo. No hay salida limpia. Y entonces Dios lo rescata por el camino menos pensado: los príncipes filisteos desconfían de David y exigen que se vuelva. Dios usó hasta la sospecha de los enemigos para sacar a David del lío en que él solo se había metido.
+
+Y el tomo llega a su punto más alto con **Siclag** (capítulo 30). David y sus hombres vuelven y encuentran su ciudad quemada, sus mujeres e hijos llevados cautivos, todo perdido. El golpe es tan brutal que lloran «hasta que les faltaron las fuerzas para llorar» (30:4), y el pueblo, amargado, habla de apedrear a David. Es el momento más bajo de toda su vida. Y justo ahí está el versículo que corona el libro: «mas David se fortaleció en Jehová su Dios» (30:6). En vez de hundirse, buscó a Dios; consultó, obedeció, persiguió — y lo recuperó todo, sin que faltara nada ni nadie. Y al repartir el botín, estableció una justicia hermosa: el que se quedó cuidando el bagaje recibe lo mismo que el que bajó a pelear.
+
+El libro cierra con **la muerte de Saúl en Gilboa** (capítulo 31). Herido por los flecheros, temiendo el escarnio del enemigo, Saúl cae sobre su propia espada, y con él mueren sus hijos y su casa. Es el final trágico y sobrio del rey que empezó lleno de promesa y se perdió por el camino — exactamente como se había anunciado.
+
+**El hilo del tomo:** los dos caminos llegan a su destino, y lo que decide el final no es la circunstancia, sino a quién se buscó en la circunstancia. Saúl y David enfrentaron los dos la misma noche oscura —el mismo ejército filisteo, el mismo miedo— y respondieron al revés: Saúl, que por años se apartó de Dios, en la crisis corrió a Endor; David, en el peor golpe de su vida, se fortaleció en Jehová. Aprendemos que las decisiones de toda una vida se cobran en la hora de la crisis; que la fe cansada busca atajos que después nos enredan, pero Dios rescata hasta de nuestros propios enredos; que hay un momento en que hasta el creyente lo pierde todo, y que ahí, fortalecerse en Dios en vez de hundirse es lo que marca la diferencia; y que Dios reparte su recompensa con una justicia que honra igual al que pelea y al que sostiene desde atrás. Es el final de un libro — y el nacimiento de un rey.
+
+Cinco capítulos:
+
+1. **El atajo de la fe cansada** (27) — cuando el desánimo nos lleva a soluciones que nos enredan.
+2. **Cuando el cielo calla** (28) — a dónde llega el alma que por años le cerró la puerta a Dios.
+3. **Dios rescata de nuestros propios enredos** (29) — la providencia que nos saca del lío que armamos.
+4. **Se fortaleció en Jehová su Dios** (30) — qué hacer cuando lo pierdes todo.
+5. **El final de dos caminos** (31) — cómo se cobran en la crisis las decisiones de toda una vida.
+
+Como siempre, es el **libro del maestro** —cuerpo, `Resumen`, `Preguntas de estudio` y la `Nota para el autor` que se borra antes de publicar—, con el texto traído de la base y cada cita cotejada contra la RVR1960, nunca de memoria.
