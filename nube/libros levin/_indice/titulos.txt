@@ -833,6 +833,14 @@ Hechos|4|Saulo, Saulo, ¿por qué me persigues?||hch-04-iban-por-todas-partes-an
 Hechos|4|Descolgándole en una canasta||hch-04-iban-por-todas-partes-anunciando-el-evangelio-cap04.md
 Hechos|4|Tabita, levántate||hch-04-iban-por-todas-partes-anunciando-el-evangelio-cap05.md
 Hechos|4|Tomo 4 — Iban por todas partes anunciando el evangelio|Hechos 8:4 – 9:43|hch-04-iban-por-todas-partes-anunciando-el-evangelio-introduccion.md
+Hechos|5|Lo que Dios limpió, no lo llames tú común||hch-05-tambien-a-los-gentiles-cap01.md
+Hechos|5|Yo mismo también soy hombre||hch-05-tambien-a-los-gentiles-cap02.md
+Hechos|5|Dios no hace acepción de personas||hch-05-tambien-a-los-gentiles-cap03.md
+Hechos|5|Entonces me acordé de lo dicho por el Señor||hch-05-tambien-a-los-gentiles-cap04.md
+Hechos|5|Se les llamó cristianos||hch-05-tambien-a-los-gentiles-cap05.md
+Hechos|5|Se les abrió por sí misma||hch-05-tambien-a-los-gentiles-cap06.md
+Hechos|5|¡Voz de Dios, y no de hombre!||hch-05-tambien-a-los-gentiles-cap07.md
+Hechos|5|Tomo 5 — También a los gentiles|Hechos 10:1 – 12:25|hch-05-tambien-a-los-gentiles-introduccion.md
 Isaias|1|Toda cabeza está enferma||isa-01-oid-cielos-y-escucha-tu-tierra-cap01.md
 Isaias|1|Venid luego, dice Jehová, y estemos a cuenta||isa-01-oid-cielos-y-escucha-tu-tierra-cap02.md
 Isaias|1|Ciudad de justicia, Ciudad fiel||isa-01-oid-cielos-y-escucha-tu-tierra-cap03.md

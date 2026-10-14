@@ -180,5 +180,61 @@
   "cuando": "2026-10-14T17:44:44",
   "fallos": 0,
   "avisos": 0
+ },
+ "hch-05-tambien-a-los-gentiles-cap01.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T17:52:14",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-05-tambien-a-los-gentiles-cap02.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T18:00:25",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-05-tambien-a-los-gentiles-cap03.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T18:06:52",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-05-tambien-a-los-gentiles-cap04.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T18:13:02",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-05-tambien-a-los-gentiles-cap05.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T18:19:14",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-05-tambien-a-los-gentiles-cap06.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T18:24:47",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-05-tambien-a-los-gentiles-cap07.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T18:29:49",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-05-tambien-a-los-gentiles-introduccion.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T18:34:30",
+  "fallos": 0,
+  "avisos": 0
  }
 }
