@@ -1180,6 +1180,13 @@ Juan|8|Vuestra tristeza se convertirá en gozo||juan-08-yo-he-vencido-al-mundo-c
 Juan|8|Padre, la hora ha llegado||juan-08-yo-he-vencido-al-mundo-cap04.md
 Juan|8|Para que todos sean uno||juan-08-yo-he-vencido-al-mundo-cap05.md
 Juan|8|Tomo 8 — Yo he vencido al mundo|Juan 15:18 – 17:26|juan-08-yo-he-vencido-al-mundo-introduccion.md
+Juan|9|¿A quién buscáis?||juan-09-mi-reino-no-es-de-este-mundo-cap01.md
+Juan|9|Y en seguida cantó el gallo||juan-09-mi-reino-no-es-de-este-mundo-cap02.md
+Juan|9|¿Qué es la verdad?||juan-09-mi-reino-no-es-de-este-mundo-cap03.md
+Juan|9|¡He aquí el hombre!||juan-09-mi-reino-no-es-de-este-mundo-cap04.md
+Juan|9|Consumado es||juan-09-mi-reino-no-es-de-este-mundo-cap05.md
+Juan|9|Y al instante salió sangre y agua||juan-09-mi-reino-no-es-de-este-mundo-cap06.md
+Juan|9|Tomo 9 — Mi reino no es de este mundo|Juan 18:1 – 19:42|juan-09-mi-reino-no-es-de-este-mundo-introduccion.md
 Jueces|1|No acabaron de echar||jue-01-la-rueda-que-baja-cap01.md
 Jueces|1|Yo no os echaré: el ángel en Boquim||jue-01-la-rueda-que-baja-cap02.md
 Jueces|1|La generación que no conoció||jue-01-la-rueda-que-baja-cap03.md
