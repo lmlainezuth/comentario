@@ -864,6 +864,13 @@ Hechos|8|¡Grande es Diana de los efesios!||hch-08-crecia-y-prevalecia-poderosam
 Hechos|8|No os alarméis, pues está vivo||hch-08-crecia-y-prevalecia-poderosamente-la-palabra-del-senor-cap05.md
 Hechos|8|Con tal que acabe mi carrera con gozo||hch-08-crecia-y-prevalecia-poderosamente-la-palabra-del-senor-cap06.md
 Hechos|8|Tomo 8 — Crecía y prevalecía poderosamente la palabra del Señor|Hechos 18:1 – 20:38|hch-08-crecia-y-prevalecia-poderosamente-la-palabra-del-senor-introduccion.md
+Hechos|9|Hágase la voluntad del Señor||hch-09-a-morir-en-jerusalen-por-el-nombre-del-senor-jesus-cap01.md
+Hechos|9|Venía detrás, gritando: ¡Muera!||hch-09-a-morir-en-jerusalen-por-el-nombre-del-senor-jesus-cap02.md
+Hechos|9|La sangre de Esteban tu testigo||hch-09-a-morir-en-jerusalen-por-el-nombre-del-senor-jesus-cap03.md
+Hechos|9|Pero yo lo soy de nacimiento||hch-09-a-morir-en-jerusalen-por-el-nombre-del-senor-jesus-cap04.md
+Hechos|9|¡Dios te golpeará a ti, pared blanqueada!||hch-09-a-morir-en-jerusalen-por-el-nombre-del-senor-jesus-cap05.md
+Hechos|9|El hijo de la hermana de Pablo||hch-09-a-morir-en-jerusalen-por-el-nombre-del-senor-jesus-cap06.md
+Hechos|9|Tomo 9 — A morir en Jerusalén por el nombre del Señor Jesús|Hechos 21:1 – 23:35|hch-09-a-morir-en-jerusalen-por-el-nombre-del-senor-jesus-introduccion.md
 Isaias|1|Toda cabeza está enferma||isa-01-oid-cielos-y-escucha-tu-tierra-cap01.md
 Isaias|1|Venid luego, dice Jehová, y estemos a cuenta||isa-01-oid-cielos-y-escucha-tu-tierra-cap02.md
 Isaias|1|Ciudad de justicia, Ciudad fiel||isa-01-oid-cielos-y-escucha-tu-tierra-cap03.md
