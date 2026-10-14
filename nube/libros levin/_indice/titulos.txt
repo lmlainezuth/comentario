@@ -857,6 +857,13 @@ Hechos|7|¿Qué debo hacer para ser salvo?||hch-07-estos-que-trastornan-el-mundo
 Hechos|7|Escudriñando cada día las Escrituras||hch-07-estos-que-trastornan-el-mundo-entero-cap07.md
 Hechos|7|¿Qué querrá decir este palabrero?||hch-07-estos-que-trastornan-el-mundo-entero-cap08.md
 Hechos|7|Tomo 7 — Estos que trastornan el mundo entero|Hechos 15:1 – 17:34|hch-07-estos-que-trastornan-el-mundo-entero-introduccion.md
+Hechos|8|Yo tengo mucho pueblo en esta ciudad||hch-08-crecia-y-prevalecia-poderosamente-la-palabra-del-senor-cap01.md
+Hechos|8|Instruido en el camino del Señor||hch-08-crecia-y-prevalecia-poderosamente-la-palabra-del-senor-cap02.md
+Hechos|8|Los paños o delantales de su cuerpo||hch-08-crecia-y-prevalecia-poderosamente-la-palabra-del-senor-cap03.md
+Hechos|8|¡Grande es Diana de los efesios!||hch-08-crecia-y-prevalecia-poderosamente-la-palabra-del-senor-cap04.md
+Hechos|8|No os alarméis, pues está vivo||hch-08-crecia-y-prevalecia-poderosamente-la-palabra-del-senor-cap05.md
+Hechos|8|Con tal que acabe mi carrera con gozo||hch-08-crecia-y-prevalecia-poderosamente-la-palabra-del-senor-cap06.md
+Hechos|8|Tomo 8 — Crecía y prevalecía poderosamente la palabra del Señor|Hechos 18:1 – 20:38|hch-08-crecia-y-prevalecia-poderosamente-la-palabra-del-senor-introduccion.md
 Isaias|1|Toda cabeza está enferma||isa-01-oid-cielos-y-escucha-tu-tierra-cap01.md
 Isaias|1|Venid luego, dice Jehová, y estemos a cuenta||isa-01-oid-cielos-y-escucha-tu-tierra-cap02.md
 Isaias|1|Ciudad de justicia, Ciudad fiel||isa-01-oid-cielos-y-escucha-tu-tierra-cap03.md
