@@ -3,3 +3,4 @@
 03=Señor Jesús, recibe mi espíritu
 04=Iban por todas partes anunciando el evangelio
 05=También a los gentiles
+06=La obra a que los he llamado
