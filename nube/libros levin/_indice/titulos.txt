@@ -827,6 +827,12 @@ Hechos|3|Poderoso en sus palabras y obras||hch-03-senor-jesus-recibe-mi-espiritu
 Hechos|3|Gobernante y libertador||hch-03-senor-jesus-recibe-mi-espiritu-cap04.md
 Hechos|3|Veo los cielos abiertos||hch-03-senor-jesus-recibe-mi-espiritu-cap05.md
 Hechos|3|Tomo 3 — Señor Jesús, recibe mi espíritu|Hechos 6:1 – 8:3|hch-03-senor-jesus-recibe-mi-espiritu-introduccion.md
+Hechos|4|No tienes tú parte ni suerte en este asunto||hch-04-iban-por-todas-partes-anunciando-el-evangelio-cap01.md
+Hechos|4|¿Entiendes lo que lees?||hch-04-iban-por-todas-partes-anunciando-el-evangelio-cap02.md
+Hechos|4|Saulo, Saulo, ¿por qué me persigues?||hch-04-iban-por-todas-partes-anunciando-el-evangelio-cap03.md
+Hechos|4|Descolgándole en una canasta||hch-04-iban-por-todas-partes-anunciando-el-evangelio-cap04.md
+Hechos|4|Tabita, levántate||hch-04-iban-por-todas-partes-anunciando-el-evangelio-cap05.md
+Hechos|4|Tomo 4 — Iban por todas partes anunciando el evangelio|Hechos 8:4 – 9:43|hch-04-iban-por-todas-partes-anunciando-el-evangelio-introduccion.md
 Isaias|1|Toda cabeza está enferma||isa-01-oid-cielos-y-escucha-tu-tierra-cap01.md
 Isaias|1|Venid luego, dice Jehová, y estemos a cuenta||isa-01-oid-cielos-y-escucha-tu-tierra-cap02.md
 Isaias|1|Ciudad de justicia, Ciudad fiel||isa-01-oid-cielos-y-escucha-tu-tierra-cap03.md
