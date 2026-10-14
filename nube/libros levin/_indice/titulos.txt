@@ -1131,6 +1131,12 @@ Juan|1|Un verdadero israelita, en quien no hay engaño||juan-01-vimos-su-gloria-
 Juan|1|Haced todo lo que os dijere||juan-01-vimos-su-gloria-cap05.md
 Juan|1|Destruid este templo, y en tres días lo levantaré||juan-01-vimos-su-gloria-cap06.md
 Juan|1|Tomo 1 — Vimos su gloria|Juan 1:1 – 2:25|juan-01-vimos-su-gloria-introduccion.md
+Juan|10|Y vio, y creyó||juan-10-para-que-creais-que-jesus-es-el-cristo-cap01.md
+Juan|10|Mujer, ¿por qué lloras?||juan-10-para-que-creais-que-jesus-es-el-cristo-cap02.md
+Juan|10|¡Señor mío, y Dios mío!||juan-10-para-que-creais-que-jesus-es-el-cristo-cap03.md
+Juan|10|¡Es el Señor!||juan-10-para-que-creais-que-jesus-es-el-cristo-cap04.md
+Juan|10|¿Me amas más que éstos?||juan-10-para-que-creais-que-jesus-es-el-cristo-cap05.md
+Juan|10|Tomo 10 — Para que creáis que Jesús es el Cristo|Juan 20:1 – 21:25|juan-10-para-que-creais-que-jesus-es-el-cristo-introduccion.md
 Juan|2|Os es necesario nacer de nuevo||juan-02-si-conocieras-el-don-de-dios-cap01.md
 Juan|2|Como Moisés levantó la serpiente en el desierto||juan-02-si-conocieras-el-don-de-dios-cap02.md
 Juan|2|El amigo del esposo||juan-02-si-conocieras-el-don-de-dios-cap03.md
