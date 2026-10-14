@@ -236,5 +236,54 @@
   "cuando": "2026-10-14T18:34:30",
   "fallos": 0,
   "avisos": 0
+ },
+ "hch-06-la-obra-a-que-los-he-llamado-cap01.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T18:48:16",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-06-la-obra-a-que-los-he-llamado-cap02.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T18:54:03",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-06-la-obra-a-que-los-he-llamado-cap03.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T18:59:29",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-06-la-obra-a-que-los-he-llamado-cap04.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T19:06:14",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-06-la-obra-a-que-los-he-llamado-cap05.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T19:16:24",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-06-la-obra-a-que-los-he-llamado-cap06.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T19:21:13",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-06-la-obra-a-que-los-he-llamado-introduccion.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T19:26:03",
+  "fallos": 0,
+  "avisos": 0
  }
 }

@@ -841,6 +841,13 @@ Hechos|5|Se les llamó cristianos||hch-05-tambien-a-los-gentiles-cap05.md
 Hechos|5|Se les abrió por sí misma||hch-05-tambien-a-los-gentiles-cap06.md
 Hechos|5|¡Voz de Dios, y no de hombre!||hch-05-tambien-a-los-gentiles-cap07.md
 Hechos|5|Tomo 5 — También a los gentiles|Hechos 10:1 – 12:25|hch-05-tambien-a-los-gentiles-introduccion.md
+Hechos|6|Apartadme a Bernabé y a Saulo||hch-06-la-obra-a-que-los-he-llamado-cap01.md
+Hechos|6|No soy digno de desatar el calzado de los pies||hch-06-la-obra-a-que-los-he-llamado-cap02.md
+Hechos|6|Las misericordias fieles de David||hch-06-la-obra-a-que-los-he-llamado-cap03.md
+Hechos|6|Te he puesto para luz de los gentiles||hch-06-la-obra-a-que-los-he-llamado-cap04.md
+Hechos|6|Nosotros también somos hombres semejantes a vosotros||hch-06-la-obra-a-que-los-he-llamado-cap05.md
+Hechos|6|A través de muchas tribulaciones||hch-06-la-obra-a-que-los-he-llamado-cap06.md
+Hechos|6|Tomo 6 — La obra a que los he llamado|Hechos 13:1 – 14:28|hch-06-la-obra-a-que-los-he-llamado-introduccion.md
 Isaias|1|Toda cabeza está enferma||isa-01-oid-cielos-y-escucha-tu-tierra-cap01.md
 Isaias|1|Venid luego, dice Jehová, y estemos a cuenta||isa-01-oid-cielos-y-escucha-tu-tierra-cap02.md
 Isaias|1|Ciudad de justicia, Ciudad fiel||isa-01-oid-cielos-y-escucha-tu-tierra-cap03.md
