@@ -821,6 +821,12 @@ Hechos|2|No había entre ellos ningún necesitado||hch-02-en-el-nombre-de-jesucr
 Hechos|2|Todas las palabras de esta vida||hch-02-en-el-nombre-de-jesucristo-de-nazaret-cap06.md
 Hechos|2|Es necesario obedecer a Dios antes que a los hombres||hch-02-en-el-nombre-de-jesucristo-de-nazaret-cap07.md
 Hechos|2|Tomo 2 — En el nombre de Jesucristo de Nazaret|Hechos 3:1 – 5:42|hch-02-en-el-nombre-de-jesucristo-de-nazaret-introduccion.md
+Hechos|3|Servir a las mesas||hch-03-senor-jesus-recibe-mi-espiritu-cap01.md
+Hechos|3|El Dios de la gloria||hch-03-senor-jesus-recibe-mi-espiritu-cap02.md
+Hechos|3|Poderoso en sus palabras y obras||hch-03-senor-jesus-recibe-mi-espiritu-cap03.md
+Hechos|3|Gobernante y libertador||hch-03-senor-jesus-recibe-mi-espiritu-cap04.md
+Hechos|3|Veo los cielos abiertos||hch-03-senor-jesus-recibe-mi-espiritu-cap05.md
+Hechos|3|Tomo 3 — Señor Jesús, recibe mi espíritu|Hechos 6:1 – 8:3|hch-03-senor-jesus-recibe-mi-espiritu-introduccion.md
 Isaias|1|Toda cabeza está enferma||isa-01-oid-cielos-y-escucha-tu-tierra-cap01.md
 Isaias|1|Venid luego, dice Jehová, y estemos a cuenta||isa-01-oid-cielos-y-escucha-tu-tierra-cap02.md
 Isaias|1|Ciudad de justicia, Ciudad fiel||isa-01-oid-cielos-y-escucha-tu-tierra-cap03.md

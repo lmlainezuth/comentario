@@ -96,5 +96,47 @@
   "cuando": "2026-10-14T16:18:56",
   "fallos": 0,
   "avisos": 0
+ },
+ "hch-03-senor-jesus-recibe-mi-espiritu-cap01.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T16:33:26",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-03-senor-jesus-recibe-mi-espiritu-cap02.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T16:41:02",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-03-senor-jesus-recibe-mi-espiritu-cap03.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T16:45:49",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-03-senor-jesus-recibe-mi-espiritu-cap04.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T16:52:38",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-03-senor-jesus-recibe-mi-espiritu-cap05.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T16:57:39",
+  "fallos": 0,
+  "avisos": 0
+ },
+ "hch-03-senor-jesus-recibe-mi-espiritu-introduccion.md": {
+  "hecho": true,
+  "limpio": true,
+  "cuando": "2026-10-14T17:00:31",
+  "fallos": 0,
+  "avisos": 0
  }
 }
